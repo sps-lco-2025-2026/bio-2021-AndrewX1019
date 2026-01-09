@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIO2021", "BIO2021.csproj", "{B59F5FAD-66F8-FB40-65D8-15194F23C681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59F5FAD-66F8-FB40-65D8-15194F23C681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59F5FAD-66F8-FB40-65D8-15194F23C681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59F5FAD-66F8-FB40-65D8-15194F23C681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59F5FAD-66F8-FB40-65D8-15194F23C681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F397941A-354B-45D2-A96D-5AD78E9AEB3A}
+	EndGlobalSection
+EndGlobal
